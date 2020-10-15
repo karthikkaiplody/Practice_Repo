@@ -6,4 +6,4 @@
 
 [Python Notebook](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/Python%2BPractice.ipynb)
 
-[Array DS]()
+[Array DS](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/ArrayDS.ipynb)
