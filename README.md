@@ -8,4 +8,4 @@
 
 [Array DS](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/ArrayDS.ipynb)
 
-[LeetCode](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/LeetCode_Arrays.ipynb)
+[LeetCode Practice](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/LeetCode_Arrays.ipynb)
