@@ -1,6 +1,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-## Repository for Practice
+## Practice Repository for Python
 
 [Data Preprocessing](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/Data_Preprocessing.ipynb)
 
