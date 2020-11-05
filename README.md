@@ -10,4 +10,4 @@
 
 [Python Practice](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/Python%2BPractice.ipynb)
 
-[Linked Lists]()
+[Linked Lists](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/1_LinkedLists.py)
