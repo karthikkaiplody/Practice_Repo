@@ -8,8 +8,6 @@
 
 [Array DS](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/ArrayDS.ipynb)
 
-[LeetCode Practice](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/LeetCode_Arrays.ipynb)
-
 [Python Practice](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/Python%2BPractice.ipynb)
 
 
