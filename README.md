@@ -6,8 +6,5 @@
 
 [Data Preprocessing](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/Data_Preprocessing.ipynb)
 
-[Array DS](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/ArrayDS.ipynb)
-
-[Python Practice](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/Python%2BPractice.ipynb)
 
 
