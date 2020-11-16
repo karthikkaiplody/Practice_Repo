@@ -8,5 +8,12 @@ Also about the best practices in python.
 
 [Data Preprocessing](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/Data_Preprocessing.ipynb)
 
+[Array Data Structure](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/ArrayDS.ipynb)
+
+[Leet Code practices](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/LeetCode_Arrays.ipynb)
+
+### Coding questions:
+[Anagram: Finding the two strings anagram or not ](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/TestAnagram.py)
+
 
 
