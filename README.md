@@ -15,5 +15,6 @@ Also about the best practices in python.
 ### Coding questions:
 [Anagram: Finding the two strings anagram or not ](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/TestAnagram.py)
 
+[PairSum: Finding sum pairs of a given integer key](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/PairSum.py)
 
 
