@@ -14,7 +14,8 @@ Also about the best practices in python.
 
 ### Coding questions:
 [Anagram: Finding the two strings anagram or not ](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/TestAnagram.py)
+    Given pair of strings, have to find whether both the strings are having the same letters or not.
 
 [PairSum: Finding sum pairs of a given integer key](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/PairSum.py)
-
+   Give a list of numbers and a key, finding the tuples consiting of two ints which adds up to the given key.
 
