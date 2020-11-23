@@ -12,6 +12,8 @@ Also about the best practices in python.
 
 [Leet Code practices](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/LeetCode_Arrays.ipynb)
 
+[Numpy Manipulations](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/Numpy_Manipulations.ipynb)
+
 ### Coding questions:
 [Anagram: Finding the two strings anagram or not ](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/TestAnagram.py)
   - Given pair of strings, have to find whether both the strings are having the same letters or not.
