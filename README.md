@@ -14,6 +14,8 @@ Also about the best practices in python.
 
 [Numpy Manipulations](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/Numpy_Manipulations.ipynb)
 
+Python Practice
+
 ### Coding questions:
 [Anagram: Finding the two strings anagram or not ](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/TestAnagram.py)
   - Given pair of strings, have to find whether both the strings are having the same letters or not.
