@@ -14,7 +14,7 @@ Also about the best practices in python.
 
 [Numpy Manipulations](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/Numpy_Manipulations.ipynb)
 
-Python Practice
+[Python Practice](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/Python%2BPractice.ipynb)
 
 ### Coding questions:
 [Anagram: Finding the two strings anagram or not ](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/TestAnagram.py)
