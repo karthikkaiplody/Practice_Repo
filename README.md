@@ -12,7 +12,9 @@ Also about the best practices in python.
 
 [Leet Code practices](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/LeetCode_Arrays.ipynb)
 
-[Numpy Manipulations](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/Numpy_Manipulations.ipynb)
+[Numpy Manipulations](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/Numpy_Manipulations.ipynb) 
+
+[Visualisations](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/Visualisations.ipynb)
 
 
 ### Coding questions:
