@@ -16,6 +16,8 @@ Also about the best practices in python.
 
 [Visualisations](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/Visualisations.ipynb)
 
+[Bubble Sort](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/Bubble_sort.py)
+
 
 ### Coding questions:
 [Anagram: Finding the two strings anagram or not ](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/TestAnagram.py)
