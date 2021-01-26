@@ -27,3 +27,4 @@ Also about the best practices in python.
   - Give a list of numbers and a key, finding the tuples consiting of two ints which adds up to the given key.
 
 [Interview Prep](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/Interview_Coding.ipynb)
+- Gives the count of each letters in a word 
