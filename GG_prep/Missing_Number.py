@@ -38,3 +38,7 @@ array = [1,2,3,5]
 n = 5
 print("Missing number is {}".format(missingNumber1(array, n)) )
 
+# Approach 2
+''' 
+We know that XOR of same number cancels each other   
+'''
