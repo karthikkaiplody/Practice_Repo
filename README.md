@@ -33,3 +33,4 @@ Also about the best practices in python.
   - Trees
 
 Clean Code
+- Common Practices
