@@ -29,7 +29,7 @@ Author: Karthik
 
 def pair_sum(array, k):
     if len(array) < 2:
-        return print("Array is too small")
+        print("Array is too small")
 
     seen = set()
     output = set()
@@ -46,6 +46,6 @@ def pair_sum(array, k):
     print("\n".join(map(str, list(output))))
 
 
-pair_sum([1, 2, 3, 2], 4)
+pair_sum([1, 2, 3, 2], 5)
 
 # Author: FreeCodeCamp
