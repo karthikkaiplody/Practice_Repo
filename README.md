@@ -20,11 +20,11 @@ Also about the best practices in python.
 
 
 ### Coding questions:
-[Anagram: Finding the two strings anagram or not ](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/TestAnagram.py)
-  - Given pair of strings, have to find whether both the strings are having the same letters or not.
+Name | Description
+-----|-------------
+[Anagram: Finding the two strings anagram or not ](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/TestAnagram.py) | Given pair of strings, have to find whether both the strings are having the same letters or not.
+[PairSum: Finding sum pairs of a given integer key](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/PairSum.py) | Given a list of numbers and a key, finding the tuples consiting of two integers which adds up to the given key.
 
-[PairSum: Finding sum pairs of a given integer key](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/PairSum.py)
-  - Given a list of numbers and a key, finding the tuples consiting of two integers which adds up to the given key.
 
 [Interview Prep- Coding](https://github.com/KarthikKaiplody/Practice_Repo/tree/master/GG_prep)
   - [Missing number in a continuous list](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/GG_prep/Missing_Number.py) 
