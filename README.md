@@ -32,6 +32,6 @@ Name | Description
   - [Array Reversal](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/GG_prep/Reversal_Array.py)
 <!--   - Trees -->
   - [Abstract class](https://github.com/karthikkaiplody/Practice_Repo/blob/master/PythonCode/Abstract_class.py)
-
+<!-- 
 Clean Code
-- Common Practices
+- Common Practices -->
