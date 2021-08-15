@@ -30,7 +30,6 @@ Name | Description
   - [Missing number in a continuous list](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/GG_prep/Missing_Number.py) 
   - [Trailing zeros in factorial](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/GG_prep/Trailing_zeros_in_factorial.py)
   - [Array Reversal](https://github.com/KarthikKaiplody/Practice_Repo/blob/master/GG_prep/Reversal_Array.py)
-<!--   - Trees -->
   - [Abstract class](https://github.com/karthikkaiplody/Practice_Repo/blob/master/PythonCode/Abstract_class.py)
 <!-- 
 Clean Code
